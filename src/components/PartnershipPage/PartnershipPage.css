@@ -1,0 +1,41 @@
+.partnershipPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px;
+    width: 968px;
+    height: 879px;
+    background: #FFFFFF;
+    box-shadow: 0px 16px 48px rgba(0, 0, 0, 0.16);
+    border-radius: 24px;
+}
+
+.header {
+    width: 841px;
+    height: 48px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 48px;
+    /* identical to box height, or 120% */
+
+    text-align: center;
+
+    /* Text1 */
+
+    color: #333333;
+
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 16px 0px;
+}
+
+.content {
+    margin-top: 50px;
+}

@@ -1,0 +1,21 @@
+.header2 {
+    font-family: Trebuchet MS;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 15px;
+    /* identical to box height, or 133% */
+
+    display: flex;
+    align-items: center;
+}
+
+.mylink {
+    margin-right: 50px;
+}
+
+.MuiFormControl-root {
+    width: calc(100% - 75px);
+    float: left;
+}

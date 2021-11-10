@@ -1,0 +1,9 @@
+.Logo {
+    background-image: url(./logo-back.png);
+    height: 101px;
+    width: 200px;
+}
+
+.Logo img {
+    margin-top: 30px;
+}
